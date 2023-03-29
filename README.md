@@ -1,2 +1,0 @@
-# EscriArte
-Escritura Artística
